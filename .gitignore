@@ -1,0 +1,18 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folder
+venv/
+.venv/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# FastAPI specific folders
+.env
